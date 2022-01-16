@@ -1,0 +1,1 @@
+print('\033[31mVermelho e branco\033[m')
